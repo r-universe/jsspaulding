@@ -5,6 +5,3 @@
 [submodule "rcrimeanalysis"]
 	path = rcrimeanalysis
 	url = https://github.com/jsspaulding/rcrimeanalysis
-[submodule "rgeoprofile"]
-	path = rgeoprofile
-	url = https://github.com/jsspaulding/rgeoprofile
